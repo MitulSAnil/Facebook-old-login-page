@@ -1,0 +1,190 @@
+.header{
+    background: #4c66a4;
+    width: 100%;
+    height: 80px;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    float: left;
+    padding-top: 25px;
+
+}
+.login{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.logo-text{
+    color: #ffff;
+    font-size: 30px;
+    font-weight: 750;
+    text-decoration: none;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    margin-left: 311px;
+    
+}
+.login-label{
+    color: #fff;
+    font-size: 12px;
+}
+.login-control{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    
+    font-size: 12px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    border-color: #29487d;
+    height: 20px;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: #29487d;
+}
+.left-sec{
+    width: 30%;
+    float: left;
+    padding-left: 310px;
+    padding-top: 5px;
+}
+
+.right-sec{
+    width: 43%;
+    float: right;
+    list-style-type: none;
+    font-size: 18px;
+}
+#crtacc{
+    font-size: 37px;
+}
+.main-body{
+    background: linear-gradient(white, #d3d8e8);
+    width: 100%;
+    height: 600px;
+}
+.fbi5mg{
+    width: 483px;
+    
+}
+.parag{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0e385f;
+    font-family: arial;
+}
+
+#name{
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+    border: 1px solid #BDBDBD;
+}
+.surname{
+    margin-left: 1%;
+}
+#mobtextpass{
+    height: 40px;
+    width: 393px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+    border: 1px solid #BDBDBD;
+    margin-top: 10px;
+}
+#date{
+    padding: 4px;
+    float: left;
+}
+#whydoi{margin-left: 10px;
+    width: 150px;
+    color: #045FB4;
+    text-decoration: none;
+    font-size: 11px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 15px;
+}
+#gender{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#ByClick{
+    color: #424242;
+    font-size: 11px;
+}
+#CreateAcc{
+    width: 205px;
+    height: 45px;
+    font-size: 19px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Freight Sans Bold', helvetica, arial, sans-serif !important;
+    font-weight: bold !important;
+    background: linear-gradient(#67ae55, #578843);
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    border: 1px solid;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+}
+#CreatePage{
+    font-size: 13px;
+    font-weight: bold;
+}
+#footer{
+    width:100%;
+    clear:both;
+    float:left;
+    margin-top:30px;
+    min-width:995px;
+    background-color:white;
+    text-align:left;
+}
+#footer1{
+    width:980px;
+    margin: auto;
+    border-bottom:1px solid #E6E6E6;
+    height:30px;
+    line-height:30px;
+    font-size:12px;
+    color:#848484;
+}
+#footer1 a{
+    color:#365899;
+    margin-left:10px;
+    text-decoration:none;
+}
+#footer1 a:hover{
+    text-decoration:underline;
+}
+#footer2{
+    width:980px;
+    margin: auto;
+    font-size:12px;
+    color:#848484;
+}
+#footer2 a{
+    color:#365899;
+    display:inline-block;
+    margin:5px;
+    margin-left:0px;
+    min-width:80px;
+    text-decoration:none;
+}
+#footer2 a:hover{
+    text-decoration:underline;
+}
